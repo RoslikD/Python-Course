@@ -1,8 +1,10 @@
-first_name = "ada"
-last_name = "lovelace"
-full_name = f"{first_name} {last_name}"
-message = f" Hello, {full_name.title()}!"
-print(message)
 
-#format
-full_name = "{} {}".format(first_name, last_name)
+#Методы строк
+favorite_language = ' python '
+print(favorite_language.strip())
+
+favorite_language = ' python '
+print(favorite_language.rstrip())
+
+favorite_language = 'python '
+print(favorite_language.lstrip())
