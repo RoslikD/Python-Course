@@ -10,6 +10,10 @@ print(message)
 #Упражнение Код с ошибкой
 mesage = "Hello Python Crash Course world!"
 print(mesage)
-#Упраженение стр.37
+#Упраженение 2.1 стр.37
 mes = "простое сообщение"
 print(mes)
+
+#Упраженение 2.2 стр.37
+mes = "простое сообщение"
+print(mese)
