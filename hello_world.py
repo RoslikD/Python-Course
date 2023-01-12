@@ -8,5 +8,5 @@ message = "Hello Python Crash Course world!"
 print(message)
 
 #Упражнение Код с ошибкой
-message = "Hello Python Crash Course world!"
+mesage = "Hello Python Crash Course world!"
 print(mesage)
